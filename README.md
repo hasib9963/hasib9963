@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻It's Me Hasib<br>💻I'm basically a backend developer as well as familiar with frontend.<br>👀 I'm passionate in Development & Designing website and webapp<br>🧠 I am currently learning frontend development to become full stack developer<br>📖  I like to read nonfiction book on free time.<br>📖 I am currently studying in university of Rajshahi.
+👨‍💻It's Me Hasib<br>💻I'm basically a backend developer as well as familiar with frontend.<br>👀 I'm passionate in Development & Designing website and webapp<br>🧠 I am currently learning frontend development to become full stack developer<br>📖  I like to read nonfiction book on free time.<br>📖 I am currently studying in Rangpur Enginnering College.
 
 
 ## 🌐 Socials:
