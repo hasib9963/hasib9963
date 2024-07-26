@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Hasib Mohammad Mahede Hasan
+## Hi there 👋, I am Hasib Mohammad Mahede Hasan
 
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on Github
