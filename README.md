@@ -24,7 +24,6 @@ Skills: Python/Django / REACT / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hasib9963/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/hasib9963)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasib9963)  
 
