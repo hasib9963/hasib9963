@@ -1,8 +1,8 @@
-![I am a Full stack web developer](https://media.licdn.com/dms/image/D5616AQG0wbrUZ8O85A/profile-displaybackgroundimage-shrink_350_1400/0/1714116232538?e=1727308800&v=beta&t=U6RhXUA7S6v4LEnwXhJcNdcS5WvisgEs1JPnzvf4q3k)
+![I am a Python developer](https://media.licdn.com/dms/image/D5616AQG0wbrUZ8O85A/profile-displaybackgroundimage-shrink_350_1400/0/1714116232538?e=1727308800&v=beta&t=U6RhXUA7S6v4LEnwXhJcNdcS5WvisgEs1JPnzvf4q3k)
 
 ## Hi there 👋, I am Hasib Mohammad Mahede Hasan
 
-🌱 I’m currently learning Frontend Development<br>👯 I’m looking to collaborate on GitHub<br>🤔 I’m looking for help with JavaScript<br>💬 Ask me about Problem solving and Web development<br>📫 How to reach me: https://www.linkedin.com/in/hasiblnkd/
+🌱 I’m currently learning Backend Development<br>👯 I’m looking to collaborate on GitHub<br>🤔 I’m looking for help with Python<br>💬 Ask me about Problem solving and Web development<br>📫 How to reach me: https://www.linkedin.com/in/hasiblnkd/
 
 
 ## 🌐 Socials:
